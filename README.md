@@ -16,7 +16,7 @@ Before you begin, make sure you have the following:
 
 ## Step 1: Download Yuzu
 
-1. Visit the [Yuzu official website].
+1. Visit this link: https://yuzu-emulator.net/download.
 2. Download the latest version suitable for your operating system.
 
 ## Step 2: Install Yuzu
@@ -31,11 +31,6 @@ Before you begin, make sure you have the following:
 
 1. Open your terminal.
 2. Follow the installation instructions on the Yuzu website, which may include adding a PPA or building from source.
-
-### On macOS:
-
-1. Open the downloaded `.dmg` file.
-2. Drag Yuzu to your Applications folder.
 
 ## Step 3: Configure Yuzu
 
