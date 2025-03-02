@@ -57,7 +57,9 @@ Before you begin, make sure you have the following:
    - Use the `Lockpick_RCM` tool on your Switch to extract the firmware and keys. Instructions can be found in the Lockpick_RCM documentation.
    - You will need the `prod.keys` and `title.keys` files.
 
-   - Placeholder for firmware and keys download: `[Insert URL here]`
+   - Placeholder for firmware and keys download:
+   - Firmware: `https://darthsternie.net/switch-firmwares/`
+   - Keys: `https://prodkeys.net/latest-switch-firmwares-v3/`
 
 2. **Copy Keys to Yuzu**:
    - Place the `prod.keys` and `title.keys` files into the `keys` folder you created.
