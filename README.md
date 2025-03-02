@@ -58,8 +58,8 @@ Before you begin, make sure you have the following:
    - You will need the `prod.keys` and `title.keys` files.
 
    - Placeholder for firmware and keys download:
-   - Firmware: `https://darthsternie.net/switch-firmwares/`
-   - Keys: `https://prodkeys.net/latest-switch-firmwares-v3/`
+   - Firmware: https://darthsternie.net/switch-firmwares/
+   - Keys: https://prodkeys.net/latest-switch-firmwares-v3/
 
 2. **Copy Keys to Yuzu**:
    - Place the `prod.keys` and `title.keys` files into the `keys` folder you created.
