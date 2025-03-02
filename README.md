@@ -97,7 +97,18 @@ Before you begin, make sure you have the following:
    - Audio
    - Controls
 
-## Step 6: Start Playing
+
+## Step 6: Configuring the Emulator for Online Play
+
+1. Go to this URL: https://themyndgame.com/modules.php?name=Yuzu+Config
+2. Enter a username and click on the `Generate Config` Button
+3. Copy the text that matches your emulator
+4. Go to the Emulator's directory and open and edit the `qt-config.ini` in the config folder.
+5. Search for the `WebServices` tag and replace it with the code you copied from Step 3.
+6. Now you can start using the public game browser option.
+
+
+## Step 7: Start Playing
 
 1. Select a game from the Yuzu library.
 2. Click `Play` to start your game.
