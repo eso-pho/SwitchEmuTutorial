@@ -46,6 +46,12 @@ Before you begin, make sure you have the following:
 2. In Yuzu, go to `File` > `Add New Game Directory`.
 3. Select the `games` folder where you placed your dumped games.
 
+#### Mario Kart 8 Deluxe Game Links
+
+1. Visit https://nsw2u.com/mario-kart-8-deluxe-switch-nsp-xci-nsz-v15
+2. Select the `Mario Kart 8 Deluxe + update 3.0.3 + DLC [NSZ]` option and download it.
+3. After download, install the main game first then install the updates and DLCs via the contextual menu. (right click on the game and select the option)
+
 ### Setting Up Firmware and Product Keys
 
 1. **Obtain Firmware and Keys**:
