@@ -61,7 +61,7 @@ Before you begin, make sure you have the following:
    - Placeholder for firmware and keys download:
    - Firmware: https://darthsternie.net/switch-firmwares/
    - Keys: https://prodkeys.net/latest-switch-firmwares-v3/
-   - NOTE: I believe that i used the v18.1.0 Firmware and Keys respectively. The newer versions cause the game to crash.
+   - NOTE: I believe that i used the v16.0.3 Firmware and Keys respectively. The newer versions cause the game to crash.
 
 2. **Copy Keys to Yuzu**:
    - Place the `prod.keys` and `title.keys` files into the `keys` folder you created.
